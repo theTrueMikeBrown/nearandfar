@@ -1,0 +1,13 @@
+{
+    "name": "Near and Far Character Creator",
+    "short_name": "NFCC",
+    "icons": [{
+        "src": "/android-chrome-144x144.png",
+        "sizes": "144x144",
+        "type": "image/png"
+    }],
+    "start_url": ".",
+    "theme_color": "#ac803f",
+    "background_color": "#ac803f",
+    "display": "standalone"
+}
